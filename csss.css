@@ -1,7 +1,7 @@
 
 
 body {
-    background-image:url(./pexels-fwstudio-129731.jpg);
+    background-color: C5FFF8;
     background-size: auto;
     outline:5px solid black ;
     padding-left: 50px;
@@ -11,23 +11,32 @@ body {
     
 }
 
-.s4{
 
-    padding-left: 60px;
-}
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
 nav{
-    background-color: FFECD6;
+    background-color: 96EFFF;
     display: flex;
 justify-content: center;
 justify-content: space-evenly;
 font-size: smaller;
-
+color-scheme: DCF2F1;
+text-decoration: none;
 font-family: Arial, Helvetica, sans-serif;
+border-radius: 65px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
 
 .s5{
     padding-left:50px ;
+}
+
+.s2{
+border-top: 100px;
 }
